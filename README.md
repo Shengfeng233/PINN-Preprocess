@@ -7,7 +7,7 @@ The code for Baseline (Ordinary Non-dimensional Equations), InnerNormalization (
 
 The same idea goes beyond NS equations. Infact it is applicable to all kinds of PDEs.
 
-The training and reference data can be found and downloaded at <https://drive.google.com/drive/folders/1thZ8X0d-DFc-bgGcw7G76UCBJSdsbfFl?usp=sharing>.
+The training and reference data can be found and downloaded at <https://drive.google.com/drive/folders/1a5V4JFsTmIsGLKmCHGyrN3c7Y9isVF6i?usp=drive_link>.
 
 Annotations are in Chinese and English.
 
